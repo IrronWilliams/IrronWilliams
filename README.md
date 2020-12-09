@@ -29,11 +29,12 @@ I am a Full Stack Developer residing in Portland Oregon.
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg"/>
  <p></p>
 
+<span class="anim-fade-in"><%= octicon("mark-github", :height => 32, :class => "v-align-middle mr-2") %> Hello from GitHub!</span>
 
  ![Irron Williams' github stats](https://github-readme-stats.vercel.app/api?username=irronwilliams&theme=ayu-mirage&show_icons=true)
  
 </div>
-<span class="anim-fade-in"><%= octicon("mark-github", :height => 32, :class => "v-align-middle mr-2") %> Hello from GitHub!</span>
+
 
 
 
