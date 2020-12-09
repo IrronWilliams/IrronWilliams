@@ -28,8 +28,9 @@ I am a Full Stack Developer residing in Portland Oregon.
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg"/>
 </div>
 
+<div align="center">
 ![Irron Williams' github stats](https://github-readme-stats.vercel.app/api?username=irronwilliams&theme=ayu-mirage&show_icons=true)
-
+</div>
 
 <!--
 **IrronWilliams/IrronWilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
