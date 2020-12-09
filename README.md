@@ -26,10 +26,13 @@ I am a Full Stack Developer residing in Portland Oregon.
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg"/>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg"/>
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg"/>
+ 
+ ![Irron Williams' github stats](https://github-readme-stats.vercel.app/api?username=irronwilliams&theme=ayu-mirage&show_icons=true)
+ 
 </div>
 
 
-![Irron Williams' github stats](https://github-readme-stats.vercel.app/api?username=irronwilliams&theme=ayu-mirage&show_icons=true)
+
 
 
 <!--
