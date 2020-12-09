@@ -6,12 +6,13 @@ I am a Full Stack Developer residing in Portland Oregon.
 
 📧 irron.williams@gmail.com
 
-<div></div>
 <div class="text-white bg-gray-dark mb-2">
-  ### Tech Stack includes a composite of languages, databases and frameworks.     
+  ### Tech Stack includes a composite of languages, databases and frameworks.  
 </div>
-     
 
+<p></p>
+
+<p></p>
 <div align="center">
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg"/>
