@@ -5,8 +5,8 @@ I am a Full Stack Developer residing in Portland Oregon.
 📊 I’m currently learning the beautiful complexities of ***D3.js.*** 📈
 
 📧 irron.williams@gmail.com
-<div align="center">
 ### Tech Stack is a composite of languages, databases and frameworks.  
+<div align="center">
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg"/>
