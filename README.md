@@ -7,7 +7,7 @@ I am a Full Stack Developer residing in Portland Oregon.
 📧 irron.williams@gmail.com
 
 <div class="text-white bg-gray-dark mb-2">
-  ### Tech Stack includes a composite of languages, databases and frameworks.  
+  Tech Stack includes a composite of languages, databases and frameworks.  
 </div>
 
 <p></p>
